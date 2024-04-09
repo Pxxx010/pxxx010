@@ -8,8 +8,9 @@
 💻 Todos os meus projetos estão disponíveis no GitHub [Pxxx010](https://github.com/Pxxx010)
 
 ## Habilidades:
-Power BI
-Iniciante em Html,Css,Js,Python
+
+- Power BI
+- Iniciante em Html,Css,Js,Python
 
 
 
