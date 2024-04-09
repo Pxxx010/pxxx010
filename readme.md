@@ -3,7 +3,7 @@
 
 🎓 Estudante em Análise e Desenvolv. Sistemas
 
-💡 Vamos conversar sobre: Python, Django, Docker, PostgreSQL 💬
+💡 Vamos conversar 💬
 
 💻 Todos os meus projetos estão disponíveis no GitHub [Pxxx010](https://github.com/Pxxx010)
 
