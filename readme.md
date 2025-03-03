@@ -15,6 +15,7 @@
 
 ### **📊 Análise de Dados:**
 - **Power BI**
+- **Python**
 
 ### **💻 Desenvolvimento Web e Mobile:**
 - **Frontend:** HTML, CSS, JavaScript  
