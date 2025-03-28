@@ -21,14 +21,16 @@
 ### 💻 **Desenvolvimento Web e Mobile**
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript
 - **Backend:** Go, Node.js
-- **Banco de Dados:** MongoDB
 - **Mobile:** React Native
+
+### 🗄️ **Banco de Dados**
+- MongoDB
+- MySQL
 
 ### 🚀 **Outras Tecnologias**
 - Git & GitHub
 - RESTful APIs
 - Metodologias Ágeis
-
 ---
 
 ## 🌐 Contatos
