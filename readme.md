@@ -1,48 +1,58 @@
-# 👋 Olá, sou Afonso Estevão!  
+# 👋 Olá, eu sou o Afonso Estevão!
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💡 **Apaixonado por aprendizado contínuo e desenvolvimento de soluções criativas**  
-💻 **[Todos os meus projetos estão disponíveis no GitHub](https://github.com/Pxxx010)**  
-
----
-
-## 🚀 Objetivo Profissional
-"Sempre em busca de oportunidades para desenvolver soluções impactantes e contribuir com equipes de tecnologia inovadoras."
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Entusiasta em tecnologia, apaixonado por resolver problemas reais com soluções criativas e eficientes.  
+💻 Todos os meus projetos estão disponíveis no [**GitHub**](https://github.com/Pxxx010)
 
 ---
 
-## 🛠️ Habilidades:
+## 🎯 Objetivo Profissional
 
-### **📊 Análise de Dados:**
-- **Power BI**
-- **Python**
-
-### **💻 Desenvolvimento Web e Mobile:**
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** MongoDB  
-- **Mobile:** React Native  
-
-### **🐍 Outros:**
-- Python
+> "Busco oportunidades para aplicar meus conhecimentos em projetos impactantes e colaborar com equipes inovadoras no desenvolvimento de soluções tecnológicas."
 
 ---
 
-## 🌐 Contatos:
+## 🛠️ Habilidades Técnicas
+
+### 📊 **Análise de Dados**
+- Python (Pandas, Matplotlib)
+- Power BI
+
+### 💻 **Desenvolvimento Web e Mobile**
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript
+- **Backend:** Go, Node.js
+- **Banco de Dados:** MongoDB
+- **Mobile:** React Native
+
+### 🚀 **Outras Tecnologias**
+- Git & GitHub
+- RESTful APIs
+- Metodologias Ágeis
+
+---
+
+## 🌐 Contatos
+
 <div>
-<a href="mailto:afonsoestevao04@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/afonso-luna/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:afonsoestevao04@gmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/afonso-luna/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub:
+## 📈 Estatísticas GitHub
+
 <div>
-<a href="https://github.com/Pxxx010">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxxx010&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Pxxx010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>  
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxxx010&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Pxxx010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
-## 🏆 Conquistas no GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pxxx010&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Conquistas GitHub
+
+[![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=Pxxx010&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
